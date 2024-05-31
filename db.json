@@ -1,12 +1,8 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1 bnjhbjh" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
+  "tasks": [
+    { "id": 1, "title": "Моя задача 1", "date": 123 },
+    { "id": 2, "title": "Выучить уже наконец-то нормально swift", "date": 231 },
+    { "id": 3, "title": "Возможно, даже objective-c", "date": 4354 }
   ],
   "profile": {
     "name": "typicode"
